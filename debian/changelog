@@ -5,6 +5,7 @@ qalculate-gtk (2.6.2-0utopia1) UNRELEASED; urgency=medium
       XSBC-Original-Maintainer
     - Add Vcs-* links to Utopia Repository Git repos
   * New upstream release.
+  * Bump libqalculate-dev version requirement to >= 2.6.0~
 
  -- James Lu <james@overdrivenetworks.com>  Wed, 29 Aug 2018 00:09:18 -0700
 
