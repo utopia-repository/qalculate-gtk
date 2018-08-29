@@ -1,0 +1,13 @@
+Description: Remove Encoding field in desktop file
+Author: Vincent Legout <vincent@legout.info>
+
+Index: qalculate-gtk/data/qalculate-gtk.desktop.in
+===================================================================
+--- qalculate-gtk.orig/data/qalculate-gtk.desktop.in	2010-01-12 22:33:25.081917355 +0800
++++ qalculate-gtk/data/qalculate-gtk.desktop.in	2010-01-12 22:33:26.913914393 +0800
+@@ -1,5 +1,4 @@
+ [Desktop Entry]
+-Encoding=UTF-8
+ _Name=Qalculate!
+ _Comment=Powerful and easy to use calculator
+ Exec=qalculate-gtk
