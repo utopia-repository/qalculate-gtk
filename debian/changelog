@@ -1,9 +1,5 @@
-qalculate-gtk (2.6.2-0utopia1) UNRELEASED; urgency=medium
+qalculate-gtk (2.6.2-0.1) UNRELEASED; urgency=medium
 
-  * Utopia Repository upload:
-    - Set myself as maintainer, moving Vincent Legout to
-      XSBC-Original-Maintainer
-    - Add Vcs-* links to Utopia Repository Git repos
   * New upstream release.
   * Bump libqalculate-dev version requirement to >= 2.6.0~
 
